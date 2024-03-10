@@ -5,7 +5,7 @@ table, th, td {
 }
 thead{
 	background-color:maroon;
-	text-align:left
+	text-align:left;
 }
 .first{
 	background-color:pink;
