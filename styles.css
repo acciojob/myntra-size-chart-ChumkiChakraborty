@@ -6,9 +6,11 @@ table, th, td {
 thead{
 	background-color:maroon;
 	text-align:left;
+	color:white;
 }
 .first{
 	background-color:pink;
+	color:white;
 }
 .second{
 	background-color:magenta;
